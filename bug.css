@@ -1,0 +1,1 @@
+The following CSS code snippet demonstrates a common issue where the specificity of CSS selectors can lead to unexpected results.  The intention is to style all list items, but due to the higher specificity of the second selector, only list items within the unordered list will be affected, leaving the list items within the ordered list styled with the default browser styles.
