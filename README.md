@@ -1,0 +1,1 @@
+This repository demonstrates a common CSS issue related to selector specificity. The bug showcases how more specific selectors override less specific ones, leading to unexpected styling of elements.  The solution provides a corrected CSS approach to ensure consistent styling across all list items.
